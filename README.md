@@ -1,4 +1,4 @@
-# Kaleido Auto Bot 🤖
+9# Kaleido Auto Bot 🤖
 THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
 
 ## Register
@@ -33,8 +33,5 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
    ```bash
    npm run start
    ```
-apt install screen
-
-cd KaleidoFinance-Auto-Bot
-screen -Rd Kaleidos
-npm run start
+5. apt install screen
+6. cd KaleidoFinance-Auto-Bot
