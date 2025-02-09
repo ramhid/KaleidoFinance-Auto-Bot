@@ -33,5 +33,3 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
    ```bash
    npm run start
    ```
-5. apt install screen
-6. cd KaleidoFinance-Auto-Bot
