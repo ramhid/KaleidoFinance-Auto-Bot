@@ -28,7 +28,7 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
 3. Create a wallets.txt file and add your wallet addresses (one per line):
    ```bash
    nano wallets.txt
-   ```0x67403473424ea7Ab050eD067fb464D4c7fBB0Ced
+   ```
 4. Run Bot
    ```bash
    npm run start
